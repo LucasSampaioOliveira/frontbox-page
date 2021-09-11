@@ -1,6 +1,6 @@
 ### ✨ Final Project
 
-<p align-center>
+<p>
 <img src="frontbox-page.png" alt="projeto-finalizado" />
 </p>
 
